@@ -1,0 +1,7 @@
+int main(){
+    int a;
+    float b,c;
+    a = b+c;
+    if(a>b){ a = b + c;}else{ a = b - c; }
+    while(a<b){ a = a+c+d;}
+}

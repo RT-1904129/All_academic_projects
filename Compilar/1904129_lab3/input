@@ -1,0 +1,16 @@
+int main(){
+ /* ram  shyam */
+    int a,b,c;
+    a = 3,b = -3, c = 5;
+    int d = a + b;
+    int k = b - c;
+    int j = c % 10;
+    int _abc;
+/* I am rishabh
+ giving Viva to maiam
+*/
+    if (_abc > 5){
+        _abc = _abc + 5.0;
+    }
+}
+

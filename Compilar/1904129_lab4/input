@@ -1,0 +1,6 @@
+int main(){
+	int a, b;
+	float d;
+	char c;
+	int e,f,g;
+}

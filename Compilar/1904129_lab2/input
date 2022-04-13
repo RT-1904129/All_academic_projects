@@ -1,0 +1,9 @@
+int main(){
+    int a,b,c;
+  char ch='a'; 
+    a = 3,b = -3, c = 5;
+    int d = a + b;
+    int k = b - c;
+    int j = c % 10;
+}
+

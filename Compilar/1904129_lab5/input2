@@ -1,0 +1,12 @@
+int main()
+{
+    int a, b, c;
+    if (a <= c){ a = b - a;}
+    else if ( a > b && c > a ){   /*Else if block*/
+        a = a + c;}
+    else{ a = c - a; }            /*Else block*/ 
+
+    while( a < c || b >= a){ 
+        a = a+c;
+	}
+}
